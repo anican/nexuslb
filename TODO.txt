@@ -1,0 +1,4 @@
+- build and profile nexuslb on A100 gpus
+    - start with multiple baremetal
+    - then profile on MIGs
+- profile MIG load times
